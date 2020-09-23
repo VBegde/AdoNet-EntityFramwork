@@ -1,0 +1,15 @@
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csprojAssemblyReference.cache
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb

@@ -1,0 +1,10 @@
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\E-Ticaret\bin\Debug\E-Ticaret.exe.config
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\E-Ticaret\bin\Debug\E-Ticaret.exe
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\E-Ticaret\bin\Debug\E-Ticaret.pdb
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\E-Ticaret\obj\Debug\AdoNetDemo.csprojAssemblyReference.cache
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\E-Ticaret\obj\Debug\AdoNetDemo.Form1.resources
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\E-Ticaret\obj\Debug\E_Ticaret.Properties.Resources.resources
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\E-Ticaret\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\E-Ticaret\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\E-Ticaret\obj\Debug\E-Ticaret.exe
+C:\Users\veysi\Desktop\AdoNetDemo\AdoNetDemo\E-Ticaret\obj\Debug\E-Ticaret.pdb
